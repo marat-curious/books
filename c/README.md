@@ -1,0 +1,5 @@
+- C Programming Language (2nd Edition) By Brian W. Kernighan & Dennis M. Ritchie
+- Head First C: A Brain-Friendly By David Griffiths and Dawn Griffiths
+- Let us C By Yashavant P Kanetkar
+- C: The Complete Reference By Herbert Schildt
+- Programming in ANSI C By E. Balaguruswamy
