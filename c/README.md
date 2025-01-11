@@ -3,3 +3,8 @@
 - Let us C By Yashavant P Kanetkar
 - C: The Complete Reference By Herbert Schildt
 - Programming in ANSI C By E. Balaguruswamy
+- Effective C By Robert C. Seacord
+- C Primer Plus By Stephen Prata
+- C Programming Absolute Beginner's Guide By Greg Perry and Dean Miller
+- Learn C Programming By Jeff Szuhay
+- Learning C Programming By Anthony Wallit

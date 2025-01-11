@@ -3,5 +3,15 @@
 - Programming: Principles and Practice Using C++ (2008) By Bjarne Stroustrup
 - Effective Modern C++ (2014) By Scott Meyers
 - Practical C++ Programming (2nd Edition) By Steve Oualline
-
-
+- C++ Programming: From Problem Analysis to Program Design By D.S. Malik
+- Starting Out with C++ from Control Structures to Objects By Tony Gaddis
+- Beginning C++ Through Game Programming By Michael Dawson
+- C++ in One Hour a Day, Sams Teach Yourself By Siddhartha Rao
+- Learning C++ By Michael Haephrati and Ruth Haephrati
+- C++ Crash Course: A Fast-Paced Introduction By Josh Lospinoso
+- Object Oriented Programming in C++ By Robert Lafore
+- Professional C++ By Marc Gregoire
+- Modern C++ Programming Cookbook By Marius Bancila
+- C++ Pocket Reference By Kyle Loudon
+- Effective C++ By Scott Meyers
+- C++ Concurrency in Action By Anthony Williams
